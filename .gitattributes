@@ -1,1 +1,2 @@
 Aplikasi_SPK_Beasiswa.exe filter=lfs diff=lfs merge=lfs -text
+tugas/source_code.zip filter=lfs diff=lfs merge=lfs -text
